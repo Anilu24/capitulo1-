@@ -19,8 +19,7 @@ referencia a la utilización de <b>microorganismos</b> para tratar una sustancia
 las condiciones medioambientales. <br>
 </font>
 <br>
-<td><img src=Bio1.jpg height="200">
-<td><img src=Bio6.jpg height="200">
+
 <br>
 <br>
 
@@ -44,8 +43,7 @@ marzo de 1989 en Prince William Sound, Alaska fue el catalizador de esta atenci�
 se ha convertido en una tecnología que se aplica en diferentes circunstancias<br>
 </font>
 <br>
-<td><img src=Bio2.jpg height="200">
-<td><img src=Bio3.jpg height="200">
+
 <br>
 <br>
 
@@ -60,8 +58,7 @@ eliminar contaminantes y toxinas del suelo y el agua.Puede usarse para limpiar p
 derrame de petróleo o agua subterránea contaminada.<br>
 </font>
 <br>
-<td><img src=Bio4.jpg height="200">               
-<td><img src=Bio5.jpg height="200">
+
 <br>
 <br>
 
@@ -78,7 +75,7 @@ Consiste en incorporar nutrientes o modificar variables ambientales como por eje
 Esta otra estrategia de biorremediación, implica la incorporación de organismos, que tienen la capacidad de<br>
 degradar el compuestos, a un ambiente contaminado.<br>
 <br>
-<td><img src=Bio7.jpg height="300">
+
 <br>
 <br>
 
@@ -121,7 +118,7 @@ Son aquellas técnicas de biorremediación, dónde el agua o suelo contaminado s
 específicas para ese fin. A diferencia del anterior, esta técnica se emplea para volúmenes pequeños.<br>
 </font>
 <br>
-<td><img src=Bio8.jpg height="300">
+
 <br>
 <br>
 
@@ -144,9 +141,7 @@ Existen varios tipos de fitorremediación según las cualidades de las plantas: 
 algunas son capaces de degradar los compuestos, otras de inmovilizarlos en sus hojas, etcétera. <br>
 </font>
 <br>
-<td><img src=Bio9.jpg height="200">
-<td><img src=Bio10.jpg height="200">
-<td><img src=Bio11.jpg height="200">
+
 <br>
 <br>
 
