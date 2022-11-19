@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title> Capítulo 1-Origen </title>
 </head>
 <body bgcolor="linen">
 <center>
